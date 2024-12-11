@@ -6,7 +6,7 @@
 #define ILANCOIN_UTIL_STRING_H
 
 #include <attributes.h>
-
+#include <cstdint>
 #include <algorithm>
 #include <array>
 #include <cstring>
