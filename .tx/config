@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[ilancoin.qt-translation-021x]
+file_filter = src/qt/locale/ilancoin_<lang>.ts
+source_file = src/qt/locale/ilancoin_en.ts
+source_lang = en
