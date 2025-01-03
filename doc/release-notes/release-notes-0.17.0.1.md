@@ -1,16 +1,16 @@
-Bitcoin Core version 0.17.0.1 is now available from:
+Ilancoin Core version 0.17.0.1 is now available from:
 
-  <https://bitcoincore.org/bin/bitcoin-core-0.17.0.1/>
+  <https://ilancoincore.org/bin/ilancoin-core-0.17.0.1/>
 
 This release provides a minor bug fix for 0.17.0.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/bitcoin/bitcoin/issues>
+  <https://github.com/ilancoin/ilancoin/issues>
 
 To receive security and update notifications, please subscribe to:
 
-  <https://bitcoincore.org/en/list/announcements/join/>
+  <https://ilancoincore.org/en/list/announcements/join/>
 
 Notable changes
 ===============

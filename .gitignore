@@ -2,15 +2,15 @@
 
 *.exe
 *.pdb
-src/bitcoin
-src/bitcoind
-src/bitcoin-cli
-src/bitcoin-tx
-src/bitcoin-wallet
+src/ilancoin
+src/ilancoind
+src/ilancoin-cli
+src/ilancoin-tx
+src/ilancoin-wallet
 src/test/fuzz
 !src/test/fuzz/*.*
-src/test/test_bitcoin
-src/qt/test/test_bitcoin-qt
+src/test/test_ilancoin
+src/qt/test/test_ilancoin-qt
 
 # autoreconf
 Makefile.in
@@ -34,8 +34,8 @@ config.log
 config.status
 configure
 libtool
-src/config/bitcoin-config.h
-src/config/bitcoin-config.h.in
+src/config/ilancoin-config.h
+src/config/ilancoin-config.h.in
 src/config/stamp-h1
 src/obj
 share/setup.nsi
@@ -49,11 +49,11 @@ src/qt/forms/ui_*.h
 
 src/qt/test/moc*.cpp
 
-src/qt/bitcoin-qt.config
-src/qt/bitcoin-qt.creator
-src/qt/bitcoin-qt.creator.user
-src/qt/bitcoin-qt.files
-src/qt/bitcoin-qt.includes
+src/qt/ilancoin-qt.config
+src/qt/ilancoin-qt.creator
+src/qt/ilancoin-qt.creator.user
+src/qt/ilancoin-qt.files
+src/qt/ilancoin-qt.includes
 
 .deps
 .dirstamp
@@ -90,8 +90,8 @@ src/qt/bitcoin-qt.includes
 *.qm
 Makefile
 !depends/Makefile
-src/qt/bitcoin-qt
-Bitcoin-Qt.app
+src/qt/ilancoin-qt
+Ilancoin-Qt.app
 background.tiff*
 
 # Qt Creator
@@ -99,7 +99,7 @@ Makefile.am.user
 
 # Unit-tests
 Makefile.test
-bitcoin-qt_test
+ilancoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
@@ -115,7 +115,7 @@ releases
 *.gcno
 *.gcda
 /*.info
-test_bitcoin.coverage/
+test_ilancoin.coverage/
 total.coverage/
 coverage_percent.txt
 
@@ -130,7 +130,7 @@ test/cache/*
 
 /doc/doxygen/
 
-libbitcoinconsensus.pc
+libilancoinconsensus.pc
 contrib/devtools/split-debug.sh
 
 # Output from running db4 installation

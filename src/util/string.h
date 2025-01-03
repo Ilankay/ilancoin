@@ -1,9 +1,9 @@
-// Copyright (c) 2019 The Bitcoin Core developers
+// Copyright (c) 2019 The Ilancoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BITCOIN_UTIL_STRING_H
-#define BITCOIN_UTIL_STRING_H
+#ifndef ILANCOIN_UTIL_STRING_H
+#define ILANCOIN_UTIL_STRING_H
 
 #include <attributes.h>
 
@@ -66,4 +66,4 @@ std::string ToString(const T& t)
     return oss.str();
 }
 
-#endif // BITCOIN_UTIL_STRENCODINGS_H
+#endif // ILANCOIN_UTIL_STRENCODINGS_H
