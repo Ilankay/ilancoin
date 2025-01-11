@@ -1,0 +1,23 @@
+main net genesis block:
+t = 1736545871
+z = "CNN 10/JAN/2025 Donald Trump will enter the White House as a felon"
+hash = 00000000e0b88f968e73b67010813f08a80ad686703bc52923a1d8ccab80c082
+nonce = 3785522035
+merkle root = 21d106f4d1cfd218c550112b140d31a472225d0bfbde1c533aa7d8712617279f
+public key = 04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f
+
+test net genesis block:
+t = 1736623623
+z = "CNN 10/JAN/2025 Donald Trump will enter the White House as a felon"
+hash = 00000000daa3c6f1553327b886ea5e39bcdbee886ee9ba060b6a63b27e88ad22
+nonce = 848471977
+merkle root = 21d106f4d1cfd218c550112b140d31a472225d0bfbde1c533aa7d8712617279f
+public key = 04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f
+
+reg net genesis block:
+t = 1736623623
+z = "CNN 10/JAN/2025 Donald Trump will enter the White House as a felon"
+hash = 00000000daa3c6f1553327b886ea5e39bcdbee886ee9ba060b6a63b27e88ad22
+nonce = 848471977
+merkle root = 21d106f4d1cfd218c550112b140d31a472225d0bfbde1c533aa7d8712617279f
+public key = 04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f

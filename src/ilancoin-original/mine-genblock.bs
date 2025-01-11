@@ -1,0 +1,3 @@
+echo "mining block:"
+script -c "python3 genesis.py -z "CNN 10/JAN/2025 Donald Trump will enter the White House as a felon" -t 1736545871" genblock-out
+cat genblock-out 
