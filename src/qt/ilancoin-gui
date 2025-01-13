@@ -1,0 +1,2 @@
+#!/bin/bash
+$HOME/Documents/Programming/cs_project_arazim/ilancoin/src/qt/ilancoin-qt -datadir=/home/ilan/.ilancoin
